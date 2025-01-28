@@ -1,0 +1,1 @@
+INSERT INTO product(name,desc,brand,price,category,release_date,available,quantity)VALUES('Tata Nexton' ,' A compact SUV with excellent safetu features and performace','Tata Motors', 550000, 'Cars' , '2024-01-15' , true,50)
